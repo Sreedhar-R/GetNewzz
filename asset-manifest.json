@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GetNewzz/static/css/main.4ad7d4f3.chunk.css",
+    "main.js": "/GetNewzz/static/js/main.5b651ae1.chunk.js",
+    "main.js.map": "/GetNewzz/static/js/main.5b651ae1.chunk.js.map",
+    "runtime-main.js": "/GetNewzz/static/js/runtime-main.569362d8.js",
+    "runtime-main.js.map": "/GetNewzz/static/js/runtime-main.569362d8.js.map",
+    "static/js/2.af86fcf3.chunk.js": "/GetNewzz/static/js/2.af86fcf3.chunk.js",
+    "static/js/2.af86fcf3.chunk.js.map": "/GetNewzz/static/js/2.af86fcf3.chunk.js.map",
+    "static/js/3.7b0883b6.chunk.js": "/GetNewzz/static/js/3.7b0883b6.chunk.js",
+    "static/js/3.7b0883b6.chunk.js.map": "/GetNewzz/static/js/3.7b0883b6.chunk.js.map",
+    "index.html": "/GetNewzz/index.html",
+    "static/css/main.4ad7d4f3.chunk.css.map": "/GetNewzz/static/css/main.4ad7d4f3.chunk.css.map",
+    "static/js/2.af86fcf3.chunk.js.LICENSE.txt": "/GetNewzz/static/js/2.af86fcf3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.569362d8.js",
+    "static/js/2.af86fcf3.chunk.js",
+    "static/css/main.4ad7d4f3.chunk.css",
+    "static/js/main.5b651ae1.chunk.js"
+  ]
+}
